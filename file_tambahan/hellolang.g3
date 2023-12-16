@@ -1,0 +1,5 @@
+grammar HelloLang;
+
+PRINT: 'print';
+STRING: '"' ~["]* '"';
+WS: [ \t\r\n]+ -> skip;

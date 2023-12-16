@@ -1,0 +1,1 @@
+file venv.zip akan  di extract di root folder. sehingga dalam root folder akan ada sebuah folder bernama venv dan dalamnya akan berada 2 file yaitu pyvenv.cfg dan .gitignore, beserta 2 folder yaitu Scripts dan Lib. Contoh direktori folder "C:\...\root_folder\venv"

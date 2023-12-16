@@ -1,0 +1,1 @@
+file csv akan dimasukkan ke dalam parent folder. Dibuat ke dalam folder yang sama dengan .ipynb
